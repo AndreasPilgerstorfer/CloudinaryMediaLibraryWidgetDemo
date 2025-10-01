@@ -1,5 +1,5 @@
 const cloudName = "ENTER-CLOUD-NAME-HERE";
-const apiKeyVD = "ENTER-API-KEY-HERE";
+const apiKey = "ENTER-API-KEY-HERE";
 
 // Open Widget
 document.getElementById("openWidget").addEventListener("click", () => {
